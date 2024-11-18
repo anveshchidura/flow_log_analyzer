@@ -34,7 +34,7 @@ flow_log_analyzer/
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone [https://github.com/anveshchidura/flow_log_analyzer.git]
 cd flow_log_analyzer
 ```
 
